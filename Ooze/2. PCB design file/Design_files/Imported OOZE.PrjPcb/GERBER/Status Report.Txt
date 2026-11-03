@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [OOZE.PrjPcb]
+   Generated File[OOZE270323.TXT]
+   Generated File[OOZE270323-RectHoles.TXT]
+   Generated File[OOZE270323.LDP]
+   Generated File[OOZE270323.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 11:41:03 PM On 02-04-2023
